@@ -1,1 +1,1 @@
-#做题，做训练，每日10题：[牛客网](https://www.nowcoder.com/exam/oj?questionJobId=10&subTabName=online_coding_page)
+#做题，做训练，每日10题：[牛客网](https://www.nowcoder.com/exam/oj?page=1&tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=314)
