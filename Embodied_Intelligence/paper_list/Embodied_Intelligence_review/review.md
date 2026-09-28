@@ -226,3 +226,11 @@ $$
 $$
 
 World Model 不只是预测未来，而是通过预测提升 embodied agent 能力。
+
+## 六个关键问题
+- RQ1: Which capabilities distinguish plausible, controllable, and actionable models, and which capabilities remain untested?
+- RQ2: How do geometry, physics, and action grounding change the state variables and tests used at each capability level?
+- RQ3: How do prediction target, horizon, memory, uncertainty, coupling, and deployment affect prediction accuracy and downstream use at each capability level?
+- RQ4: How do data, reward, policy, and model-self loops use grounded predictions, and when does a loop yield measured improvement?
+- RQ5: Which grounded capabilities transfer across manipulation, navigation, locomotion, and autonomous driving?
+- RQ6: Which missing links block the transition from Plausible to Controllable and from Controllable to Actionable?
